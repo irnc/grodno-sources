@@ -11,3 +11,7 @@
   * Grodno, http://pbc.biaman.pl/dlibra/docmetadata?id=11479
   * http://fbc.pionier.net.pl/
   * [Walki w Skidlu (1939 r.) by Irena Kotowicz, Warszawa](http://www.wbc.poznan.pl/dlibra/docmetadata?id=36588)
+
+## В. Н. Церепица
+
+* to be reserched
