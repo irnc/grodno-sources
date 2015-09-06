@@ -19,3 +19,7 @@
 ## Yizkor Grodno
 
 * http://www.jewishgen.org/Yizkor/grodno/grodno.html
+
+## A. Vaszkievicz, Dz. Narel, Pamiż Łasosnaj i Czornaj Hanczaj
+
+* http://pdf.kamunikat.org/download.php?item=1936-1.pdf
