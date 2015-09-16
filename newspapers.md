@@ -9,6 +9,22 @@
   * [Grodno eine Sammlung von Artikeln aus der Grodnoer Zeitung und anderes](http://www.europeana1914-1918.eu/en/europeana/record/9200231/BibliographicResource_2000092035581)
     * http://supron-licvin.livejournal.com/42791.html
 
+## Grodnoer Zeitung
+
+Издавалась в 1915-1918 годах.
+
+* [4. Dez. 1915 - 12. Sept. 1918][ddb], Nr. 2-214
+
+[Amtliches Organ für die Militär- und Zivil-Verwaltung][ddb], на русском _Официальный орган военного и гражданского управления_.
+
+### Библиотечные записи
+
+* [Grodnoer Zeitung. Amtliches Organ für die Militär- und Zivil-Verwaltung][ddb]
+* [Grodno : eine Sammlung von Artikeln aus der Grodnoer Zeitung und anderes : mit 10 Illustrationen und einem Stadtplan][ddb-1917]
+
+[ddb]: https://www.deutsche-digitale-bibliothek.de/item/UP2U3CB6RCWW62YVBMPLONX6VW4WNGND
+[ddb-1917]: https://www.deutsche-digitale-bibliothek.de/item/4OYFBYBD5JC7762IIMKI3FS6SY5JVIBA
+
 ## Источники
 
 * http://gout2.fortunecity.ws/history.html (в кодировке cp1251)
