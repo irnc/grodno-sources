@@ -27,6 +27,12 @@
 
 [kobv]: http://portal.kobv.de/uid.do?query=gbv_166808849&index=internal&plv=2
 
+### Архивы
+
+* [Grodnoer Zeitung (Faltblatt 44 x 33 cm) Dienstag 2.Okt.1917 + Festordnung ( 23,5 x 14,3 cm) zu Hindenburgs 70.][hood-okt-1917]
+
+[hood-okt-1917]: https://www.hood.de/i/grodno-er-zeitung-okt-1917-hindenburg-festordnung-feier-35804259.htm)
+
 ### Библиотечные записи
 
 * [Grodnoer Zeitung. Amtliches Organ für die Militär- und Zivil-Verwaltung][ddb]
