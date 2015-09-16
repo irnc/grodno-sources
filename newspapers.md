@@ -6,7 +6,8 @@
   * https://www.deutsche-digitale-bibliothek.de/item/4OYFBYBD5JC7762IIMKI3FS6SY5JVIBA
   * https://commons.wikimedia.org/wiki/File:Amtliche_Beilage_der_Grodnoer_Zeitung.jpg
   * http://archiver.rootsweb.ancestry.com/th/read/GRODNO/1999-07/0932665333
-  * http://supron-licvin.livejournal.com/42791.html
+  * [Grodno eine Sammlung von Artikeln aus der Grodnoer Zeitung und anderes](http://www.europeana1914-1918.eu/en/europeana/record/9200231/BibliographicResource_2000092035581)
+    * http://supron-licvin.livejournal.com/42791.html
 
 ## Источники
 
