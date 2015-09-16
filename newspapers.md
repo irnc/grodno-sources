@@ -21,6 +21,12 @@
 
 [Amtliches Organ für die Militär- und Zivil-Verwaltung][ddb], на русском _Официальный орган военного и гражданского управления_.
 
+Издающий орган: Grodno Soldatenrat.
+
+Периодичность: 6 дней в неделю, первоначально 3 дня в неделю ([6x wöchentl., anfangs 3x wöchentl.][kobv]).
+
+[kobv]: http://portal.kobv.de/uid.do?query=gbv_166808849&index=internal&plv=2
+
 ### Библиотечные записи
 
 * [Grodnoer Zeitung. Amtliches Organ für die Militär- und Zivil-Verwaltung][ddb]
