@@ -1,3 +1,17 @@
+## Gazeta Grodzieńska
+
+1776-1783.
+
+Смотреть [Gazeta Grodzieńska](/newspapers/1776-gazeta.md).
+
+## Wiadomości Grodzieńskie
+
+1792.
+
+Смотреть [Wiadomości Grodzieńskie](1792-wiadomosci.md).
+
+## Разобрать
+
 * Гродненские губернские ведомости (1838 - 1915)
 * газета "Наше утро"
   * [закрыта с 3 сентября 1915 по 10 декабря 1918](http://www.grodno.by/grodno/history/chronology_1915_1919.html)
@@ -11,36 +25,10 @@
 
 ## Grodnoer Zeitung
 
-Издавалась в 1915-1918 годах.
+1915-1918.
 
-> Существовал запрет на получение посылок, журналов, газет, организацию собраний и т. д.
-
-> -- http://www.mosty-zara.by/ru/issues?art_id=2765
-
-* [4. Dez. 1915 - 12. Sept. 1918][ddb], Nr. 2-214
-
-[Amtliches Organ für die Militär- und Zivil-Verwaltung][ddb], на русском _Официальный орган военного и гражданского управления_.
-
-Издающий орган: Grodno Soldatenrat.
-
-Периодичность: 6 дней в неделю, первоначально 3 дня в неделю ([6x wöchentl., anfangs 3x wöchentl.][kobv]).
-
-[kobv]: http://portal.kobv.de/uid.do?query=gbv_166808849&index=internal&plv=2
-
-### Архивы
-
-* [Grodnoer Zeitung (Faltblatt 44 x 33 cm) Dienstag 2.Okt.1917 + Festordnung ( 23,5 x 14,3 cm) zu Hindenburgs 70.][hood-okt-1917]
-
-[hood-okt-1917]: https://www.hood.de/i/grodno-er-zeitung-okt-1917-hindenburg-festordnung-feier-35804259.htm
-
-### Библиотечные записи
-
-* [Grodnoer Zeitung. Amtliches Organ für die Militär- und Zivil-Verwaltung][ddb]
-* [Grodno : eine Sammlung von Artikeln aus der Grodnoer Zeitung und anderes : mit 10 Illustrationen und einem Stadtplan][ddb-1917]
-
-[ddb]: https://www.deutsche-digitale-bibliothek.de/item/UP2U3CB6RCWW62YVBMPLONX6VW4WNGND
-[ddb-1917]: https://www.deutsche-digitale-bibliothek.de/item/4OYFBYBD5JC7762IIMKI3FS6SY5JVIBA
+Смотреть [Grodnoer Zeitung](1915-zeitung.md).
 
 ## Источники
 
-* http://gout2.fortunecity.ws/history.html (в кодировке cp1251)
+- http://gout2.fortunecity.ws/history.html (в кодировке cp1251)
